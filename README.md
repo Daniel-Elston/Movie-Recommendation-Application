@@ -2,7 +2,9 @@
 
 <hr>
 
-# Project Title
+# Movie Recommendation Search Engine
+
+<hr>
 
 ## Table of contents
 - [Status and Details](#status-and-details)
@@ -36,11 +38,14 @@
 The purpose of this project is to provide movie recommendations based on user input queries.
 
 
+### Objectives
+- Connect raw data with input queries
+- Optimize model using ground truths
+- Evaluate final solution
+
+
 ### Project Description
 More details will follow.
-
-
-### Objectives
 
 
 ## Data Science Methodology
