@@ -38,14 +38,13 @@
 The purpose of this project is to provide movie recommendations based on user input queries.
 
 
+### Project Description
+More details will follow as project progresses.
+
 ### Objectives
 - Connect raw data with input queries
 - Optimize model using ground truths
 - Evaluate final solution
-
-
-### Project Description
-More details will follow.
 
 
 ## Data Science Methodology
