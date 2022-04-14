@@ -22,20 +22,19 @@
 
 
 ## Status and Details
-- **Project Status**: [Active]
-- **Date Coded**: 14/03/2022
+- **Project Status**: [Complete]
+- **Date Coded**: 14/04/2022
 - **Link** to raw Data: https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows/activity
-- **Notes**: This project is in process.
 
 
 ## Technology
-- Language: Python 3.6.9
+- Language: Python 3.7
 - Libraries: pandas, numpy, sklearn, nlkt
 - Set up File: Install nltk, package download x 3
 
 
 ## Introduction
-The purpose of this project is to provide movie recommendations based on user input queries.
+An simple user input application has been created for the purpose of providing users with movie recommendations based on a 3 key word input.
 
 
 ### Project Description
