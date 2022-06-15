@@ -2,7 +2,7 @@
 
 <hr>
 
-<h1 align='center'> Movie Recommendation Search Engine </h1>
+<h1 align='center'> Movie Recommendation Application </h1>
 
 <hr>
 
