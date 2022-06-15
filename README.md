@@ -73,7 +73,7 @@ Having some blind test trials from friends, the application works very well. Use
 The application works very well providing sound suggestions for movies based on user input. Although difficult to evaluate, the F1-score for most words seems quite high (avg. 80%). The thought surrounding the shuffle button further appears to be much appreciated by the film buff. 
 
 ## Contributing Members and Contacts
-**Group Members**: This project was completed by a group of 4.
+**Group Members**: This project was completed by a group of 4.<br/>
 **Team Lead: [Daniel Elston](https://github.com/Daniel-Elston)**
 
 |Name     |  GitHub Handles   |  
